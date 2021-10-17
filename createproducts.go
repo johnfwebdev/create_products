@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func createproduct() {
+func main() {
 	fmt.Println("Package: create_products")
 
 	endpoint := "https://api.bigcommerce.com"

@@ -1,3 +1,3 @@
-module github.com/johnfwebdev/create_products/cmd
+module github.com/johnfwebdev/create_products
 
 go 1.17
